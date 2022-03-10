@@ -1,0 +1,5 @@
+-Création d'une classe
+-Créations d'attributs
+-Création d'un constructeur
+-Création d'un constructeur par défault + surcharge
+-Création d'une méthode afficher
