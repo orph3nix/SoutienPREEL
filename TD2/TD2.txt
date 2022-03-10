@@ -1,0 +1,10 @@
+-Utilisation de Git
+-Git clone
+-Git pull
+
+-Création de méthodes retrait et dépot
+-Création de getter et setter dans les 2 classes (accesseurs)
+-Création d'une fonction getNom et getPrenom dans client
+-Création de la méthode intérêt
+
+
