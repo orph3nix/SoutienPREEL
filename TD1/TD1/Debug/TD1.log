@@ -1,0 +1,5 @@
+﻿  TD1.cpp
+C:\Users\l22001763\source\repos\TD1\TD1\TD1.cpp(2,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\l22001763\source\repos\TD1\TD1\TD1.cpp(3,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+C:\Users\l22001763\source\repos\TD1\TD1\TD1.cpp(4,10): warning C4067: jetons inattendus après la directive du préprocesseur - saut de ligne attendu
+  TD1.vcxproj -> C:\Users\l22001763\source\repos\TD1\Debug\TD1.exe
